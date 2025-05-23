@@ -1,7 +1,7 @@
 # Intrusion Detection using AI Models On NSL-KDD Dataset
 
 
-This project implements an Intrusion Detection System (IDS) using both machine learning and deep learning models. The models are trained and evaluated on the NSL-KDD dataset for both **binary** and **multi-class classification** tasks.
+This project implements an Intrusion Detection System (IDS) using deep learning models. The models are trained and evaluated on the NSL-KDD dataset for both **binary** and **multi-class classification** tasks.
 
 ---
 
